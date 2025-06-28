@@ -1,0 +1,9 @@
+# Ignorar arquivos e pastas comuns
+*.log
+*.env
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
+*.sqlite
+*.db

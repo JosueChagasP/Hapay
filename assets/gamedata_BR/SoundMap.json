@@ -1,0 +1,7364 @@
+{
+  "libraries": [
+    {
+      "id": "sound_machine_sample_1",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 1,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_10",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 2,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_100",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 3,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_101",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 4,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_102",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 5,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_103",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 6,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_104",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 7,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_105",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 8,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_106",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 9,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_107",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 10,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_108",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 11,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_109",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 12,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_11",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 13,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_110",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 14,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_111",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 15,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_112",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 16,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_113",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 17,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_114",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 18,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_115",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 19,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_116",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 20,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_117",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 21,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_118",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 22,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_119",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 23,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_12",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 24,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_120",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 25,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_121",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 26,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_122",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 27,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_123",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 28,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_124",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 29,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_125",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 30,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_126",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 31,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_127",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 32,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_128",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 33,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_129",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 34,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_13",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 35,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_130",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 36,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_131",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 37,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_132",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 38,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_133",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 39,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_134",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 40,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_135",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 41,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_136",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 42,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_137",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 43,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_138",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 44,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_139",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 45,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_14",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 46,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_140",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 47,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_141",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 48,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_142",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 49,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_143",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 50,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_144",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 51,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_145",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 52,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_146",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 53,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_147",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 54,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_148",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 55,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_149",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 56,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_15",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 57,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_150",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 58,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_151",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 59,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_152",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 60,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_153",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 61,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_154",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 62,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_155",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 63,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_156",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 64,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_157",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 65,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_158",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 66,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_159",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 67,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_16",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 68,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_160",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 69,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_161",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 70,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_162",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 71,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_163",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 72,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_164",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 73,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_165",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 74,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_166",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 75,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_167",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 76,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_168",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 77,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_169",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 78,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_17",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 79,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_170",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 80,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_171",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 81,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_172",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 82,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_173",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 83,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_174",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 84,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_175",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 85,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_176",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 86,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_177",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 87,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_178",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 88,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_179",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 89,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_18",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 90,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_180",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 91,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_181",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 92,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_182",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 93,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_183",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 94,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_184",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 95,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_185",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 96,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_186",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 97,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_187",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 98,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_188",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 99,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_189",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 100,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_19",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 101,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_190",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 102,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_191",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 103,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_192",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 104,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_193",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 105,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_194",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 106,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_195",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 107,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_196",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 108,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_197",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 109,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_198",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 110,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_199",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 111,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_2",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 112,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_20",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 113,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_200",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 114,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_201",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 115,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_202",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 116,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_203",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 117,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_204",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 118,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_205",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 119,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_206",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 120,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_207",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 121,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_208",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 122,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_209",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 123,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_21",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 124,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_210",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 125,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_211",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 126,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_212",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 127,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_213",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 128,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_214",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 129,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_215",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 130,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_216",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 131,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_217",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 132,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_218",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 133,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_219",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 134,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_22",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 135,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_220",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 136,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_221",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 137,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_222",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 138,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_223",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 139,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_224",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 140,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_225",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 141,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_226",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 142,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_227",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 143,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_228",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 144,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_229",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 145,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_23",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 146,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_230",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 147,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_231",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 148,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_232",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 149,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_233",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 150,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_234",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 151,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_235",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 152,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_236",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 153,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_237",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 154,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_238",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 155,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_239",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 156,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_24",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 157,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_240",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 158,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_241",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 159,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_242",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 160,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_243",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 161,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_244",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 162,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_245",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 163,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_246",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 164,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_247",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 165,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_248",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 166,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_249",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 167,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_25",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 168,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_250",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 169,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_251",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 170,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_252",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 171,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_253",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 172,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_254",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 173,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_255",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 174,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_256",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 175,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_257",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 176,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_258",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 177,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_259",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 178,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_26",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 179,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_260",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 180,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_261",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 181,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_262",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 182,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_263",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 183,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_264",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 184,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_265",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 185,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_266",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 186,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_267",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 187,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_268",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 188,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_269",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 189,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_27",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 190,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_270",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 191,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_271",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 192,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_272",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 193,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_273",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 194,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_274",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 195,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_275",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 196,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_276",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 197,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_277",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 198,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_278",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 199,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_279",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 200,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_28",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 201,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_280",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 202,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_281",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 203,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_282",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 204,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_283",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 205,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_284",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 206,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_285",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 207,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_286",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 208,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_287",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 209,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_288",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 210,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_289",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 211,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_29",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 212,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_290",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 213,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_291",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 214,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_292",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 215,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_293",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 216,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_294",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 217,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_295",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 218,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_296",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 219,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_297",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 220,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_298",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 221,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_299",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 222,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_3",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 223,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_30",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 224,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_300",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 225,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_301",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 226,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_302",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 227,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_303",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 228,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_304",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 229,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_305",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 230,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_306",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 231,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_307",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 232,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_308",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 233,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_309",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 234,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_31",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 235,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_310",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 236,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_311",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 237,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_312",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 238,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_313",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 239,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_314",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 240,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_315",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 241,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_316",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 242,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_317",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 243,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_318",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 244,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_319",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 245,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_32",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 246,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_320",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 247,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_321",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 248,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_322",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 249,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_323",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 250,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_324",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 251,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_325",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 252,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_326",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 253,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_327",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 254,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_328",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 255,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_329",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 256,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_33",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 257,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_330",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 258,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_331",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 259,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_332",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 260,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_333",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 261,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_334",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 262,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_335",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 263,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_336",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 264,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_337",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 265,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_338",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 266,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_339",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 267,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_34",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 268,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_340",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 269,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_341",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 270,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_342",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 271,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_343",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 272,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_344",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 273,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_345",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 274,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_346",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 275,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_347",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 276,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_348",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 277,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_349",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 278,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_35",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 279,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_350",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 280,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_351",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 281,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_352",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 282,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_353",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 283,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_354",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 284,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_355",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 285,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_356",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 286,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_357",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 287,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_358",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 288,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_359",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 289,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_36",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 290,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_360",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 291,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_361",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 292,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_362",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 293,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_363",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 294,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_364",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 295,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_365",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 296,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_366",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 297,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_367",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 298,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_368",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 299,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_369",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 300,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_37",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 301,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_370",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 302,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_371",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 303,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_372",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 304,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_373",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 305,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_374",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 306,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_375",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 307,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_376",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 308,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_377",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 309,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_378",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 310,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_379",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 311,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_38",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 312,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_380",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 313,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_381",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 314,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_382",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 315,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_383",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 316,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_384",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 317,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_385",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 318,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_386",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 319,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_387",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 320,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_388",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 321,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_389",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 322,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_39",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 323,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_390",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 324,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_391",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 325,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_392",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 326,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_393",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 327,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_394",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 328,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_395",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 329,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_396",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 330,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_397",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 331,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_398",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 332,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_399",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 333,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_4",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 334,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_40",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 335,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_400",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 336,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_401",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 337,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_402",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 338,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_403",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 339,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_404",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 340,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_405",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 341,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_406",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 342,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_407",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 343,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_408",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 344,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_409",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 345,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_41",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 346,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_410",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 347,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_411",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 348,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_412",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 349,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_413",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 350,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_414",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 351,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_415",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 352,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_416",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 353,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_417",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 354,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_418",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 355,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_419",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 356,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_42",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 357,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_420",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 358,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_421",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 359,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_422",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 360,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_423",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 361,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_424",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 362,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_425",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 363,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_426",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 364,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_427",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 365,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_428",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 366,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_429",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 367,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_43",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 368,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_430",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 369,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_431",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 370,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_432",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 371,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_433",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 372,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_434",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 373,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_435",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 374,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_436",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 375,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_437",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 376,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_438",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 377,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_439",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 378,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_44",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 379,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_440",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 380,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_441",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 381,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_442",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 382,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_443",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 383,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_444",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 384,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_445",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 385,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_446",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 386,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_447",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 387,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_448",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 388,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_449",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 389,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_45",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 390,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_450",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 391,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_451",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 392,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_452",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 393,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_453",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 394,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_454",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 395,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_455",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 396,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_456",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 397,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_457",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 398,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_458",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 399,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_459",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 400,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_46",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 401,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_460",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 402,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_461",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 403,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_462",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 404,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_463",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 405,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_464",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 406,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_465",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 407,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_466",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 408,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_467",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 409,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_468",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 410,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_469",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 411,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_47",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 412,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_470",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 413,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_471",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 414,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_472",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 415,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_473",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 416,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_474",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 417,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_475",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 418,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_476",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 419,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_477",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 420,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_478",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 421,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_479",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 422,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_48",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 423,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_480",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 424,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_481",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 425,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_482",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 426,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_483",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 427,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_484",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 428,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_485",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 429,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_486",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 430,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_487",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 431,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_488",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 432,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_489",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 433,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_49",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 434,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_490",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 435,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_491",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 436,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_492",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 437,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_493",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 438,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_494",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 439,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_495",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 440,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_496",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 441,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_497",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 442,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_498",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 443,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_499",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 444,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_5",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 445,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_50",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 446,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_500",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 447,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_501",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 448,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_502",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 449,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_503",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 450,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_504",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 451,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_505",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 452,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_506",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 453,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_507",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 454,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_508",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 455,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_509",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 456,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_51",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 457,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_510",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 458,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_511",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 459,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_512",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 460,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_513",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 461,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_514",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 462,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_515",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 463,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_516",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 464,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_517",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 465,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_518",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 466,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_519",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 467,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_52",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 468,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_520",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 469,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_521",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 470,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_522",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 471,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_523",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 472,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_524",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 473,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_525",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 474,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_526",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 475,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_527",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 476,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_528",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 477,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_529",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 478,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_53",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 479,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_530",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 480,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_531",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 481,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_532",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 482,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_533",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 483,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_534",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 484,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_535",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 485,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_536",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 486,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_537",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 487,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_538",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 488,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_539",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 489,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_54",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 490,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_540",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 491,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_541",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 492,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_542",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 493,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_543",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 494,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_544",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 495,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_545",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 496,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_546",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 497,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_547",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 498,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_548",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 499,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_549",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 500,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_55",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 501,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_550",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 502,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_551",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 503,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_552",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 504,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_553",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 505,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_554",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 506,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_555",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 507,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_556",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 508,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_557",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 509,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_558",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 510,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_559",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 511,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_56",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 512,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_560",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 513,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_561",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 514,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_562",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 515,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_563",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 516,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_564",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 517,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_565",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 518,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_566",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 519,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_567",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 520,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_568",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 521,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_569",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 522,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_57",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 523,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_570",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 524,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_571",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 525,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_572",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 526,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_573",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 527,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_574",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 528,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_575",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 529,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_576",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 530,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_577",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 531,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_578",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 532,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_579",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 533,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_58",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 534,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_580",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 535,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_581",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 536,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_582",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 537,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_583",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 538,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_584",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 539,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_585",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 540,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_586",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 541,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_587",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 542,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_588",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 543,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_589",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 544,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_59",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 545,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_590",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 546,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_591",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 547,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_592",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 548,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_593",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 549,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_594",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 550,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_595",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 551,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_596",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 552,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_597",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 553,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_598",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 554,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_599",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 555,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_6",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 556,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_60",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 557,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_600",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 558,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_601",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 559,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_602",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 560,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_603",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 561,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_604",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 562,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_605",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 563,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_606",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 564,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_607",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 565,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_608",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 566,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_609",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 567,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_61",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 568,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_610",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 569,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_611",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 570,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_612",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 571,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_613",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 572,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_614",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 573,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_615",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 574,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_616",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 575,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_617",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 576,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_618",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 577,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_619",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 578,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_62",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 579,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_620",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 580,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_621",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 581,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_622",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 582,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_623",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 583,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_624",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 584,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_625",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 585,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_626",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 586,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_627",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 587,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_628",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 588,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_629",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 589,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_63",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 590,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_630",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 591,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_631",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 592,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_632",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 593,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_633",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 594,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_634",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 595,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_635",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 596,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_636",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 597,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_637",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 598,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_638",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 599,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_639",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 600,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_64",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 601,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_640",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 602,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_641",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 603,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_642",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 604,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_643",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 605,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_644",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 606,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_645",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 607,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_646",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 608,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_647",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 609,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_648",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 610,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_649",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 611,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_65",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 612,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_650",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 613,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_651",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 614,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_652",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 615,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_653",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 616,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_654",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 617,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_655",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 618,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_656",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 619,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_657",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 620,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_658",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 621,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_659",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 622,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_66",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 623,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_660",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 624,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_661",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 625,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_662",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 626,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_663",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 627,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_664",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 628,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_665",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 629,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_666",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 630,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_667",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 631,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_668",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 632,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_669",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 633,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_67",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 634,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_670",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 635,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_671",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 636,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_672",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 637,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_673",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 638,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_674",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 639,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_675",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 640,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_676",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 641,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_677",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 642,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_678",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 643,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_679",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 644,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_68",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 645,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_680",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 646,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_681",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 647,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_682",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 648,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_683",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 649,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_684",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 650,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_685",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 651,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_686",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 652,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_687",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 653,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_688",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 654,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_689",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 655,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_69",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 656,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_690",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 657,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_691",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 658,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_692",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 659,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_693",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 660,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_694",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 661,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_695",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 662,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_696",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 663,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_697",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 664,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_698",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 665,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_699",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 666,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_7",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 667,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_70",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 668,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_700",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 669,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_701",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 670,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_702",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 671,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_703",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 672,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_704",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 673,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_705",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 674,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_706",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 675,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_707",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 676,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_708",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 677,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_709",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 678,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_71",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 679,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_710",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 680,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_711",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 681,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_712",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 682,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_713",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 683,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_714",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 684,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_715",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 685,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_716",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 686,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_717",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 687,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_718",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 688,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_719",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 689,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_72",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 690,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_720",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 691,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_721",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 692,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_722",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 693,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_723",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 694,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_724",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 695,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_725",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 696,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_726",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 697,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_727",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 698,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_728",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 699,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_729",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 700,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_73",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 701,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_730",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 702,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_731",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 703,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_732",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 704,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_733",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 705,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_734",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 706,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_735",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 707,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_736",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 708,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_74",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 709,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_75",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 710,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_76",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 711,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_77",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 712,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_78",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 713,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_79",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 714,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_8",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 715,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_80",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 716,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_81",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 717,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_82",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 718,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_83",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 719,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_84",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 720,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_85",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 721,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_86",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 722,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_87",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 723,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_88",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 724,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_89",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 725,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_9",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 726,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_90",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 727,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_91",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 728,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_92",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 729,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_93",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 730,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_94",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 731,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_95",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 732,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_96",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 733,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_97",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 734,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_98",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 735,
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "sound_machine_sample_99",
+      "revision": 1,
+      "parts": [
+        {
+          "id": 736,
+          "type": "sound"
+        }
+      ]
+    }
+  ]
+}

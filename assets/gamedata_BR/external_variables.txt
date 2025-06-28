@@ -1,0 +1,7 @@
+# Habbo External Variables - Basic Sound Config
+sound.enabled=true
+sound.volume=0.8
+sound.format=mp3
+sound.path=/sounds/
+ui.sound.enabled=true
+ui.sound.volume=0.6
