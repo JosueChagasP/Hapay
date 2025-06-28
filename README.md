@@ -1,4 +1,4 @@
-# Salsa CMS | Salsa CMS for Arcturus Emulator Habbo
+#  |  for Arcturus
 <br>
 <center>
     <img alt="Salsa CMS for Arcturus Emulator Habbo" title="Salsa CMS for Arcturus Emulator Habbo" src="https://habbofont.net/font/habbo_clicker/salsa%20cms.gif">
